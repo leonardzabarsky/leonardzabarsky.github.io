@@ -1,0 +1,17 @@
+---
+layout: post
+title: Social Biases
+---
+## No, this is not a culture war post you can go away if that's what you're here for
+
+Bias are bad. At least, that's what [everyone](https://smile.amazon.com/Thinking-Fast-and-Slow/dp/B005Z9GAJG) [keeps](https://putanumonit.com/2019/12/08/rationalist-self-improvement/) [telling](https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/) [me](https://www.lesswrong.com/rationality/preface).
+And the thing is, I accept that as far as I can tell anyways. There might be a tiny corner of my brain that doesn't want to believe, but otherwise I'd like to think that I take actions to help mitigate my biases. I get other people to look at my work (if you'd like to proof read, PM me), I do my best to look for dissenting opinions when I research things, and I try really hard to seperate my beliefs from my ego. 
+The last point is maybe the most important one I think. Because as your beliefs become more core to your being, they become extremmely painful to question and change. 
+
+Though in order to effectively question a belief, you need to have a testable hypothesis about it. If I have the belief that "Pizza is the best food", I can question it with "Well maybe lasagna is better", but that's not really something that you can quantify, or get consistent feedback from. Likely the case is, I like pizza some days and lasagna others, but because I'm *also* trying to watch my waistline, I can't really have both every day.
+So I guess the more important thing is *actually testing* your hypothesis so you can update your priors. And when you have complicated changes you'd like to test, and they're going to require a long period of time to test, it's really fucking hard to commit to finishing.
+
+I realize this is all *very* theoretical, and I haven't given any examples ~~but hey doing philosphy from first principles isn't trivial~~. So now for an example, and to get around to why I wanted to write this, I have *no idea* how to test my theory of mind. A lot of times, I'll be talking with a group, and someone will say something I percieve as "cringe", and I also perceive the rest of the group to react the same way. I hear a sharp breath collectively inhaled, feel shoulders tighten, and feel eyes dart around, hoping to find a compassionate face of someone else who understands. 
+Notice I said "feel" for the latter two, because that's what they are to me, *feelings*, not something I directly observe, not consciously anyways. And I don't really trust them, I'm not sure they're real, or just phantoms my System 1 conjures to make Me feel better, part of a  group. 
+
+And while I now have a hypothesis about my perceptions "I have ghost feelings about others' reactions", I'm not sure how I can test it. I could ask, but for whatever reason, I don't feel particulary confident in the answers I'd get from "Did you all just think John posted cringe, seems pretty fucking cringe to me", especially if John is still in the room. I could ask later, but then I'd need to trust peoples memories of their feelings, and I'm not even sure I trust my memories of feelings, I just have memories of the words I use to describe them. So I guess I'll just apply some ~~razor~~ fence and assume I'm Right, because why wouldn't I be?
